@@ -1,0 +1,74 @@
+commit b8703e12ed06f4f08139af07079eca341a48f6e3
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Fri Dec 12 11:01:43 2025 +0000
+
+    Comment on the GitHub log output
+
+commit 96ee6ed32f61b6feb208166fb85c96892e5781f6
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Fri Dec 12 10:53:56 2025 +0000
+
+    Finalize 'What went well' section using ANOVA results
+
+commit 47110e7f429b948bd234648404e545d6005085c7
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Fri Dec 12 10:30:57 2025 +0000
+
+    Introduces a Box Plot to visualize Property Price by SQFT category and a Histogram to show the overall price distribution, enhancing data understanding.
+
+commit b5a9bdf7d63c9b8a1e04059006a8a7632c2202d0
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Thu Dec 11 13:10:16 2025 +0000
+
+    Student ID tweaks on report
+
+commit 3c4dd5211a58448bef51948a681066415757b3bc
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Thu Dec 11 13:05:38 2025 +0000
+
+    Added ‘GitHub Log Output’ and full ‘Reference List’ sections to the final report, including Harvard-formatted citations and commit analysis.
+
+commit 6739c0e2bb180efbe5394077c2a5751bbd565586
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Thu Dec 11 12:15:58 2025 +0000
+
+    Commit comprehensive loan analysis package: dataset, R code, summary statistics, ANOVA/TukeyHSD outputs, and all visualizations supporting the 2020–2021 loan recipient study.
+
+commit d97a9a7669bc95a9bdc564242ba56e1fd0e7953e
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Thu Dec 11 11:26:38 2025 +0000
+
+    Report Tweaks on Introduction, The Data set, Research Question and Image addons
+
+commit 9a65cfd59010104997ca61a1fabbdb0c24a5b215
+Merge: 199deca 89e2aa0
+Author: heyBayazid <mh24aim@herts.ac.uk>
+Date:   Wed Dec 10 13:25:56 2025 +0000
+
+    Merge pull request #1 from heyBayazid/bayazid
+    
+    Added Q5 evaluation and refined formatting
+
+commit 89e2aa07e874d665b1d6c11718096a930861d959
+Author: Hossain <mh24aim@herts.ac.uk>
+Date:   Wed Dec 10 13:25:24 2025 +0000
+
+    Added Q5 evaluation and refined formatting
+
+commit 199deca37a8dfa274ad3b71adf3caa3caa3ab4c1
+Author: Visalraj <vn24aar@herts.ac.uk>
+Date:   Wed Dec 10 12:37:58 2025 +0000
+
+    Dataset file added for reference
+
+commit bd803a5b788c76d87c2b6a422c5f0b6bb9bb8130
+Author: Neelanchery <vn24aar@herts.ac.uk>
+Date:   Wed Dec 10 12:04:53 2025 +0000
+
+    introduction, Background research addons
+
+commit 76e4e4139695b438169540c3568ec222df7db815
+Author: heyBayazid <mh24aim@herts.ac.uk>
+Date:   Fri Nov 28 16:35:41 2025 +0000
+
+    Initial commit
